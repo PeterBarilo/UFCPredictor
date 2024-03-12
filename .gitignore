@@ -4,12 +4,15 @@
 /node_modules
 /.pnp
 .pnp.js
+api/venv/masterMLpublic.csv
+masterMLpublic.csv
 
 # testing
 /coverage
 
 # production
 /build
+
 
 # misc
 .DS_Store
