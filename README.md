@@ -1,4 +1,4 @@
-UFC Predictor App
+# UFC Predictor App
 
 Essentially 100 percent accurate ;)
 
